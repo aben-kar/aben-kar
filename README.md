@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on: The Inception project for 42 School, building custom Docker containers for NGINX, MariaDB, and WordPress.<br><br>👯 I’m looking to collaborate on: Websites, web applications, and mobile apps.<br><br>🤝 I’m looking for help with: Learning new development tools.<br><br>🌱 I’m currently learning: System administration, Debian container bases, and configuring secure SSL/TLS connections.<br><br>💬 Ask me about: Building web architectures, using Docker Compose, or running WSL on Windows.<br><br>⚡ Fun fact: I have plenty of other interests and hidden talents outside of the coding world!
+Hello! 👋 I am a computer science student at 42 School, a unique coding program driven by hands-on, peer-to-peer learning.
+I focus on system administration, backend architecture, and containerization. I enjoy building secure web environments and working deeply with tools like Docker, Linux, and secure networking protocols.<br><br> My goal is to constantly learn new development tools and collaborate with others to build great websites and applications.
+My Focus: System administration, infrastructure, and building reliable web architectures.
+My Tech Interests: Docker, Linux environments (like Debian and WSL), and network security (SSL/TLS).
+Let's Connect: I am always open to collaborating on web or mobile apps and discussing new technologies!
 
 
 ## 🌐 Socials:
